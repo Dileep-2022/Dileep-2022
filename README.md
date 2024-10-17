@@ -1,6 +1,6 @@
 ## Hi there 👋
-I’m currently working as Full Stack Developer
-How to reach me : dileeppatilkr1222@gmail.com
+<p>I’m currently working as Full Stack Developer</p>
+<p></p>How to reach me : dileeppatilkr1222@gmail.com</p>
 <!--
 **Dileep-2022/Dileep-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
